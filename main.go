@@ -23,7 +23,7 @@ import (
 	"strings"
 	"time"
 )
-
+//developed by stephen
 var db *sql.DB
 var err error
 var ip, username, password, port string
